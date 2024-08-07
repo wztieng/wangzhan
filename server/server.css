@@ -1,0 +1,68 @@
+.server-2{
+    width: 100%;
+    height: 100%;
+}
+.server-2-1{
+    width: 40%;
+    float: left;
+    margin-top: 100px;
+    margin-left: 80px;
+
+
+}
+.server-2-1 h2,.server-2-1 p{
+    display: none;
+    margin-top: 20px;
+}
+.server-2-2{
+    width: 40%;
+    float: right;
+    margin-right: 90px;
+}
+.server-2-2 img{
+    width: 100%;
+}
+.sve-1{
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 50px;
+    display: none;
+}
+h4{
+    margin: 0;
+}
+.server-3{
+    width: 100%;
+    height: 50%;
+    padding-top: 50px;
+}
+.server-3-1{
+    width: 85%;
+    margin: 0 auto;
+}
+.server-3-1 p,.server-3-1 h2{
+    width: 70%;
+    display: none;
+}
+.pho-1{
+    width: 22%;
+}
+.pho-1 img{
+    width: 100%;
+    height: 200px;
+    margin: 0;
+}
+.mengban{
+    width: 100%;
+    height:200px;
+    text-align: center;
+    line-height: 200px;
+}
+.model img{
+    margin-top: 160px;
+}
+.footer{
+    margin-top: 300px;
+}

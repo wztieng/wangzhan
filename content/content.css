@@ -1,0 +1,51 @@
+.content{
+    width: 100%;
+    padding-top: 50px;
+}
+.content-1{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}
+.content-left{
+    width: 48%;
+    height: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.content-right{
+    width: 49%;
+    height: 100%;
+    float: left;
+}
+.content-left input{
+    width: 90%;
+    height: 30px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+#btn{
+    width: 80px;
+    text-align: center;
+    padding: 0;
+    background: #00ade7;
+    border: 1px solid #00ade7;
+    color: whitesmoke;
+}
+.content-2{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.content-2 img{
+    width: 50px;
+}
+.content-2-1{
+    width: 23%;
+    float: left;
+    text-align: center;
+    margin-right: 20px;
+}
+.footer{
+    margin-top: 180px;
+}
